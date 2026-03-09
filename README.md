@@ -3,12 +3,12 @@
 ## 📌 Overview
 A collection of queries used to analyze the performance of key feaures of a matching platform, critical site metrics and administrative functions. 
 
-## 📊 Focus Areas
+## 📈 Focus Areas
 * **Retention & Churn:** Calculating cohort-based retention rates and identifying downgrade patterns.
 * **Operational Excellence:** Measuring the efficacy of core conversion features and overall site performance.
 * **Regulatory Implementation:** Foundation for reporting on legal and financial oblications (DSA, refunding).
 
-## 🛠 Technical Implementation
+## 🛠 Technical Features
 To provide deep product insights, these scripts utilize:
 * **Cohort Analysis:** Grouping users and tracking their behavior over time.
 * **Funnel Logic:** Identifying drop-off points in multi-step processes like onboarding or subscription upgrades.

@@ -1,20 +1,20 @@
 # Product Optimization 
 
-A collection of queries used to analyze the performance of key feaures of a matching platform, critical site metrics and administrative functions. 
+A range of scripts to analyse the product lifecycle from onboarding to downgrading, including metrics crucial for understanding the mechanics of a matching platform. 
 
 ## 📈 Focus Areas
-* **Retention & Churn:** Calculating cohort-based retention rates and identifying downgrade patterns.
 * **Operational Excellence:** Measuring the efficacy of core conversion features and overall site performance.
-* **Regulatory Implementation:** Foundation for reporting on legal and financial oblications (DSA, refunding).
+* **Retention & Churn:** Calculating cohort-based retention rates and identifying downgrade patterns.
+* **Regulatory Implementation:** Foundation for reporting on legal and financial obligations (DSA, refunding).
 
 ## 🛠 Technical Features
-* **Cohort Analysis:** Grouping users and tracking their behavior over time.
+* **Cohort Analysis:** Grouping users and tracking their behaviour over time.
 * **Funnel Logic:** Identifying drop-off points in multi-step processes like onboarding or subscription upgrades.
 * **Complex Aggregations:** Creating views to consolidate engagement data for easier dashboarding.
 
 ## 💼 Business Impact
-* **Identifying Churn Drivers:** Pinpointing the exact stage in the renewal cycle where users were most likely to downgrade.
 * **Improving Onboarding:** Highlighting friction points leading to UX improvements.
-* **Data Democratization:** Powering automated dashboards that allowed Product Managers to monitor their own verticals in real-time.
+* **Identifying Churn Drivers:** Improving retention through extensive analysis of patterns and behaviours leading to downgrading.
+* **Data Democratization:** Empowering Product Managers to monitor their own verticals in real-time with engaging dashboards.
 
 
